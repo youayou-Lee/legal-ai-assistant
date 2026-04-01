@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"cd \\\"/home/you/文档/Obsidian Vault/法律案件AI分析助手\\\" && git init && git add -A && git commit -m \\\"Initial commit: 法律案件AI分析助手项目初始化\\\"\",\"description\":\"Initialize git repo and create initial commit\"}",
+  "error": "Exit code 128\n提示：使用 'master' 作为初始分支的名称。这个默认分支名称可能会更改。要在新仓库中\n提示：配置使用初始分支名，并消除这条警告，请执行：\n提示：\n提示：\tgit config --global init.defaultBranch <名称>\n提示：\n提示：除了 'master' 之外，通常选定的名字有 'main'、'trunk' 和 'development'。\n提示：可以通过以下命令重命名刚创建的分支：\n提示：\n提示：\tgit branch -m <name>\n已初始化空的 Git 仓库于 /home/you/文档/Obsidian Vault/法律案件AI分析助手/.git/\n作者身份未知\n\n*** 请告诉我您是谁。\n\n运行\n\n  git config --global user.email \"you@example.com\"\n  git config --global user.name \"Your Name\"\n\n来设置您账号的缺省身份标识。\n如果仅在本仓库设置身份标识，则省略 --global 参数。\n\nfatal: 无法自动探测邮件地址（得...",
+  "timestamp": "2026-04-01T06:46:35.326Z",
+  "retry_count": 1
+}

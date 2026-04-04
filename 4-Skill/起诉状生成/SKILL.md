@@ -1,5 +1,5 @@
 ---
-name: 起诉状生成
+name: civil-complaint
 description: 根据案件材料，按强制推理步骤生成符合法定格式的民事一审原告起诉状。支持当事人审查、管辖确定、清偿抵充计算、法条引用、法言法语。
 metadata:
   {

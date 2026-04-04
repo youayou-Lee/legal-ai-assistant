@@ -1,5 +1,5 @@
 ---
-name: 答辩状生成
+name: civil-defense-statement
 description: 根据原告起诉状和被告方材料，按强制推理步骤生成符合法定格式的民事一审被告答辩状。支持逐条抗辩、借款合同专项检查、法条引用、法言法语。
 metadata:
   {

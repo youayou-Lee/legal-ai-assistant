@@ -1,0 +1,7 @@
+# OMC internal state
+.omc/state/
+.omc/sessions/
+.omc/plans/
+.omc/specs/
+.omc/sessions/
+.omc/project-memory.json

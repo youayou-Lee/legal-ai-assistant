@@ -1,3 +1,11 @@
+---
+title: 测试结果-AgentA-继承与物权
+type: test-result
+created: 2026-04-04
+updated: 2026-04-05
+tags: [测试, 边界探测, 继承, 物权]
+---
+
 # 通用AI法律分析能力测试 - AgentA 结果
 
 **测试时间**：2026-04-04

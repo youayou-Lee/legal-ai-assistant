@@ -1,7 +1,7 @@
 {
-  "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"cd \\\"/home/you/文档/Obsidian Vault/法律案件AI分析助手\\\" && git init && git add -A && git commit -m \\\"Initial commit: 法律案件AI分析助手项目初始化\\\"\",\"description\":\"Initialize git repo and create initial commit\"}",
-  "error": "Exit code 128\n提示：使用 'master' 作为初始分支的名称。这个默认分支名称可能会更改。要在新仓库中\n提示：配置使用初始分支名，并消除这条警告，请执行：\n提示：\n提示：\tgit config --global init.defaultBranch <名称>\n提示：\n提示：除了 'master' 之外，通常选定的名字有 'main'、'trunk' 和 'development'。\n提示：可以通过以下命令重命名刚创建的分支：\n提示：\n提示：\tgit branch -m <name>\n已初始化空的 Git 仓库于 /home/you/文档/Obsidian Vault/法律案件AI分析助手/.git/\n作者身份未知\n\n*** 请告诉我您是谁。\n\n运行\n\n  git config --global user.email \"you@example.com\"\n  git config --global user.name \"Your Name\"\n\n来设置您账号的缺省身份标识。\n如果仅在本仓库设置身份标识，则省略 --global 参数。\n\nfatal: 无法自动探测邮件地址（得...",
-  "timestamp": "2026-04-01T06:46:35.326Z",
+  "tool_name": "mcp__obsidian-mcp-server__obsidian_search_replace",
+  "tool_input_preview": "{\"targetType\":\"filePath\",\"targetIdentifier\":\"4-已实现功能/Skill方案/答辩状生成/调研.md\",\"replacements\":[{\"search\":\"[[功能调研/研究背景-起诉状答辩状标准]]\",\"replace\":\"**研究背景-起诉状答辩状标准**\"}],\"replaceAll\":true}",
+  "error": "Error processing obsidian_search_replace tool: Obsidian API Not Found: /vault/4-%E5%B7%B2%E5%AE%9E%E7%8E%B0%E5%8A%9F%E8%83%BD/Skill%E6%96%B9%E6%A1%88/%E7%AD%94%E8%BE%A9%E7%8A%B6%E7%94%9F%E6%88%90/",
+  "timestamp": "2026-04-05T12:37:11.865Z",
   "retry_count": 1
 }

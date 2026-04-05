@@ -1,3 +1,11 @@
+---
+title: 测试结果-AgentC-婚姻与劳动
+type: test-result
+created: 2026-04-04
+updated: 2026-04-05
+tags: [测试, 边界探测, 婚姻, 劳动]
+---
+
 # 通用AI法律分析测试结果 - AgentC
 
 **测试时间：** 2026-04-04

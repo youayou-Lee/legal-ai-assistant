@@ -1,3 +1,11 @@
+---
+title: 测试结果-AgentB-合同与侵权
+type: test-result
+created: 2026-04-04
+updated: 2026-04-05
+tags: [测试, 边界探测, 合同, 侵权]
+---
+
 # Agent B 测试结果 - 合同与侵权案件分析
 
 测试时间：2026-04-04

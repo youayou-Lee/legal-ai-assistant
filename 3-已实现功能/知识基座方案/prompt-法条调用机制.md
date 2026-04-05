@@ -1,3 +1,11 @@
+---
+title: 法律分析法条调用 Prompt 机制
+type: 知识基座
+created: 2026-04-04
+updated: 2026-04-05
+tags: [法条库, Prompt, 调用机制]
+---
+
 # 法律分析法条调用 Prompt 机制
 
 > 用途：嵌入 Agent 的 AGENTS.md 或 Skill prompt 中，控制法条库的渐进式调用

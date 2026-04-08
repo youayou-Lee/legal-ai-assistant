@@ -1,7 +1,7 @@
 {
-  "tool_name": "Read",
-  "tool_input_preview": "{\"file_path\":\"/home/you/.openclaw/agents/reviewer-qwen/IDENTITY.md\"}",
-  "error": "File does not exist. Note: your current working directory is /home/you/文档/Obsidian Vault.",
-  "timestamp": "2026-04-08T07:24:02.563Z",
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"rm \\\"/home/you/文档/Obsidian Vault/陈明飞诈骗案/案件概览.md\\\" \\\"/home/you/文档/Obsidian Vault/陈明飞诈骗案/证据目录.md\\\" \\\"/home/you/文档/Obsidian Vault/陈明飞诈骗案/法律分析.md\\\" 2>/dev/null && echo \\\"旧文件已清理\\\"\",\"description...",
+  "error": "Exit code 1",
+  "timestamp": "2026-04-08T17:45:05.393Z",
   "retry_count": 1
 }

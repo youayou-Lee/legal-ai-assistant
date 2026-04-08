@@ -1,0 +1,60 @@
+{
+  "case_name": "杨刚案",
+  "input_dir": "/home/you/文档/Obsidian Vault/反馈材料/杨刚材料包/一审材料",
+  "materials_dir": "/home/you/文档/Obsidian Vault/杨刚案/材料",
+  "total": 8,
+  "text_based": 6,
+  "ocr_based": 2,
+  "partial": 0,
+  "failed": 0,
+  "files": [
+    {
+      "file": "2025+6381+原告补充证据.pdf",
+      "method": "ocr",
+      "chars": 9794,
+      "output": "2025+6381+原告补充证据.md"
+    },
+    {
+      "file": "2025+6381+原告补充鉴定报告机构及人员资质.pdf",
+      "method": "ocr",
+      "chars": 1407,
+      "output": "2025+6381+原告补充鉴定报告机构及人员资质.md"
+    },
+    {
+      "file": "一审判决.pdf",
+      "method": "text",
+      "chars": 7675,
+      "output": "一审判决.md"
+    },
+    {
+      "file": "判决书.pdf",
+      "method": "text",
+      "chars": 7675,
+      "output": "判决书.md"
+    },
+    {
+      "file": "杨江证据.pdf",
+      "method": "text",
+      "chars": 11484,
+      "output": "杨江证据.md"
+    },
+    {
+      "file": "证据目录及证据材料（原告杨江2025.7.4）.pdf",
+      "method": "text",
+      "chars": 19875,
+      "output": "证据目录及证据材料（原告杨江2025.7.4）.md"
+    },
+    {
+      "file": "起诉状（杨江-新）.pdf",
+      "method": "text",
+      "chars": 817,
+      "output": "起诉状（杨江-新）.md"
+    },
+    {
+      "file": "起诉状（杨江）.pdf",
+      "method": "text",
+      "chars": 1032,
+      "output": "起诉状（杨江）.md"
+    }
+  ]
+}

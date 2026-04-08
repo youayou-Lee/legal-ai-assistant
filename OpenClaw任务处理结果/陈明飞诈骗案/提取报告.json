@@ -1,0 +1,36 @@
+{
+  "case_name": "陈明飞诈骗案",
+  "input_dir": "/home/you/桌面/caseData/xbg/陈明飞诈骗案",
+  "materials_dir": "/home/you/文档/Obsidian Vault/陈明飞诈骗案/材料",
+  "total": 4,
+  "text_based": 4,
+  "ocr_based": 0,
+  "partial": 0,
+  "failed": 0,
+  "files": [
+    {
+      "file": "[文书卷]文书.pdf",
+      "method": "text",
+      "chars": 17298,
+      "output": "[文书卷]文书.md"
+    },
+    {
+      "file": "[证据卷]1.pdf",
+      "method": "text",
+      "chars": 1290147,
+      "output": "[证据卷]1.md"
+    },
+    {
+      "file": "[证据卷]2.pdf",
+      "method": "text",
+      "chars": 151101,
+      "output": "[证据卷]2.md"
+    },
+    {
+      "file": "[非案卷]陈明飞一审判决书.pdf",
+      "method": "text",
+      "chars": 2979,
+      "output": "[非案卷]陈明飞一审判决书.md"
+    }
+  ]
+}

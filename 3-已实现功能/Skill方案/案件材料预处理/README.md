@@ -1,5 +1,6 @@
 ---
 title: 案件材料预处理
+type: skill-overview
 created: 2026-04-09
 updated: 2026-04-09
 tags: [skill, pdf, ocr, 知识图谱, 案件预处理]

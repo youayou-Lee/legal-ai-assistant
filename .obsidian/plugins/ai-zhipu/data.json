@@ -1,0 +1,18 @@
+{
+  "promptFileName": "提示词模板",
+  "apiKey": "76bbef1e31b542d2a1143f90750f8563.36vbRrIEMuwUdhWV",
+  "baseURL": "https://open.bigmodel.cn/api/paas/v4/",
+  "tokenExpireInMinutes": 60,
+  "rootFolder": "Aizhipu",
+  "multiRoundTemplate": {
+    "title": "multi-round",
+    "template": "",
+    "params": {
+      "model": "glm-4",
+      "multiRound": true,
+      "temperature": 0.95,
+      "top_p": 0.7,
+      "max_tokens": 8192
+    }
+  }
+}

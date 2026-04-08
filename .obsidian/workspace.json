@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "ac792456294301bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "32b03347faed262f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13fbe8ccdd736011",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0-执行状态/任务看板.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "任务看板"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c295e937886a2f0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc6b96985a31b21a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "37569898379121ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2fafd1b8691c9bc1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e1b592733a908e63",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "03016909f2457847",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf792ef7af9126c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c1baf9e47879f65",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "基于AI的法律案件分析产品/项目定义文档.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "项目定义文档 的反向链接列表"
+            }
+          },
+          {
+            "id": "87dfb4ea9bf833e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "基于AI的法律案件分析产品/项目定义文档.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "项目定义文档 的出链列表"
+            }
+          },
+          {
+            "id": "10215c700c78b382",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "134da0e323e24029",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "70e7f0e0fcca7c6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0-执行状态/任务看板.md",
+                "followCursor": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "任务看板 的大纲"
+            }
+          },
+          {
+            "id": "ca66b2997d638197",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "13fbe8ccdd736011",
+  "lastOpenFiles": [
+    "3-已实现功能/Skill方案/证据目录生成/测试.md",
+    "3-已实现功能/Skill方案/证据目录生成/测试.md.tmp.48814.1775631673250",
+    "3-已实现功能/Skill方案/证据目录生成/README.md",
+    "3-已实现功能/Skill方案/证据目录生成/README.md.tmp.48814.1775631595989",
+    "3-已实现功能/Skill方案/证据目录生成",
+    "3-已实现功能/Skill方案/庭审提纲生成/后续方向.md",
+    "3-已实现功能/Skill方案/庭审提纲生成/存在的问题.md",
+    "0-执行状态/任务看板.md.tmp.126184.1775631220832",
+    "3-已实现功能/Skill方案/庭审提纲生成/思考.md",
+    "3-已实现功能/Skill方案/庭审提纲生成/结果.md",
+    "0-执行状态/每日记录/2026-04-08",
+    "3-已实现功能/Skill方案/庭审提纲生成/README.md",
+    "3-已实现功能/Skill方案/庭审提纲生成",
+    "3-已实现功能/通用工具/法言法语优化/测试.md",
+    "3-已实现功能/Skill方案/答辩状生成/测试.md",
+    "3-已实现功能/Skill方案/答辩状生成/README.md",
+    "3-已实现功能/通用工具/法言法语优化/README.md.tmp.48814.1775628447972",
+    "3-已实现功能/通用工具/法言法语优化/README.md.tmp.48814.1775628430945",
+    "3-已实现功能/通用工具/法言法语优化/结果.md",
+    "3-已实现功能/通用工具/法言法语优化/结果.md.tmp.48814.1775628386805",
+    "3-已实现功能/通用工具/法言法语优化/测试.md.tmp.48814.1775628340549",
+    "3-已实现功能/Skill方案/答辩状生成/结果.md",
+    "3-已实现功能/通用工具/法言法语优化/README.md",
+    "3-已实现功能/通用工具/docx转换/README.md",
+    "0-执行状态/任务看板.md",
+    "0-参考资料/法律文书范例/民事答辩状范例.md",
+    "3-已实现功能/Skill方案/法院文书处理/测试.md",
+    "3-已实现功能/Skill方案/律师AI助理/测试.md",
+    "3-已实现功能/_已归档/律师AI助理/调研.md",
+    "3-已实现功能/_已归档/律师AI助理/结果.md",
+    "3-已实现功能/_已归档/律师AI助理/测试.md",
+    "3-已实现功能/_已归档/律师AI助理/思考.md",
+    "3-已实现功能/_已归档/律师AI助理/存在的问题.md",
+    "3-已实现功能/_已归档/律师AI助理/后续方向.md",
+    "3-已实现功能/_已归档/律师AI助理/README.md",
+    "3-已实现功能/_已归档/裁判文书检索/调研.md",
+    "反馈材料/huang001.png",
+    "反馈材料/huang002.png",
+    "反馈材料/uang.png",
+    "反馈材料/001.png",
+    "反馈材料/微信图片_20260401120026_252_1075.png",
+    "反馈材料/微信图片_20260401120025_251_1075.png",
+    "微信图片_20260401120026_252_1075.png",
+    "微信图片_20260401120025_251_1075.png",
+    "法律案件AI分析助手/未命名.canvas",
+    "未命名.canvas"
+  ]
+}

@@ -1,7 +1,7 @@
 {
-  "tool_name": "mcp__obsidian-mcp-server__obsidian_search_replace",
-  "tool_input_preview": "{\"targetType\":\"filePath\",\"targetIdentifier\":\"4-已实现功能/Skill方案/答辩状生成/调研.md\",\"replacements\":[{\"search\":\"[[功能调研/研究背景-起诉状答辩状标准]]\",\"replace\":\"**研究背景-起诉状答辩状标准**\"}],\"replaceAll\":true}",
-  "error": "Error processing obsidian_search_replace tool: Obsidian API Not Found: /vault/4-%E5%B7%B2%E5%AE%9E%E7%8E%B0%E5%8A%9F%E8%83%BD/Skill%E6%96%B9%E6%A1%88/%E7%AD%94%E8%BE%A9%E7%8A%B6%E7%94%9F%E6%88%90/",
-  "timestamp": "2026-04-05T12:37:11.865Z",
+  "tool_name": "Read",
+  "tool_input_preview": "{\"file_path\":\"/home/you/.openclaw/agents/reviewer-qwen/IDENTITY.md\"}",
+  "error": "File does not exist. Note: your current working directory is /home/you/文档/Obsidian Vault.",
+  "timestamp": "2026-04-08T07:24:02.563Z",
   "retry_count": 1
 }
